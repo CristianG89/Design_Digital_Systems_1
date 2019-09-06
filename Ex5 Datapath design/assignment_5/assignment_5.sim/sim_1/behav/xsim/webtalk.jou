@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Oct 29 11:11:04 2018
+# Process ID: 10884
+# Current directory: D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5/assignment_5.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5/assignment_5.sim/sim_1/behav/xsim/xsim.dir/mega_adder_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5/assignment_5.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5/assignment_5.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Mis -notrace

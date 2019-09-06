@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Sep 24 16:15:14 2018
+# Process ID: 4504
+# Current directory: D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10068 D:\Mis documentos\Trabajos\Estudios\5 NTNU Trondheim\1 Semester\Design of Digital Systems 1\Assignments\A5 Datapath design\assignment_5\assignment_5.xpr
+# Log file: D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5/vivado.log
+# Journal file: D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5/assignment_5.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'D:/Mis documentos/Trabajos/Estudios/5 NTNU Trondheim/1 Semester/Design of Digital Systems 1/Assignments/A5 Datapath design/assignment_5'
+INFO: [Project 1-313] Project file moved from 'C:/Users/oyst1/OneDrive - NTNU/tfe4141/2018/Assignments/assignment5/assignment_5_2018_2/vivado_assignment_5/assignment_5' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:05 . Memory (MB): peak = 797.293 ; gain = 85.090
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Sep 24 16:32:24 2018...

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/oystein/2016/assignment_5/assignment_5.srcs/sources_1/new/adder_datapath.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity adder_datapath
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/oystein/2016/assignment_5/assignment_5.srcs/sources_1/new/adder_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity adder_controller
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/oystein/2016/assignment_5/assignment_5.srcs/sources_1/new/mega_adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mega_adder
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/oystein/2016/assignment_5/assignment_5.srcs/sim_1/new/mega_adder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mega_adder_tb

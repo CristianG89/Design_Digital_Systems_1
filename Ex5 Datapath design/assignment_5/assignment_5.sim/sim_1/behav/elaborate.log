@@ -1,0 +1,17 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 370952dc9ab94906a14a4cd41398f151 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot mega_adder_tb_behav xil_defaultlib.mega_adder_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture rtl of entity xil_defaultlib.adder_datapath [adder_datapath_default]
+Compiling architecture rtl of entity xil_defaultlib.adder_controller [adder_controller_default]
+Compiling architecture rtl of entity xil_defaultlib.mega_adder [mega_adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.mega_adder_tb
+Built simulation snapshot mega_adder_tb_behav
